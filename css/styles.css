@@ -172,6 +172,10 @@ body {
 
 /* Contacts */
 
+.header-address {
+  font-style: normal;
+}
+
 .contacts {
   display: flex;
   align-items: center;
